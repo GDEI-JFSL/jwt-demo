@@ -13,7 +13,11 @@ import jfsl.jwt.demo.token.TokenService;
 
 /**
  * <pre>
- *  TODO
+ *  测试
+ *
+ *  eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9
+ *  .eyJzaWduIjoiM2Q3NDkzYzA0YTQ4ZGMwMjdiNmM3Y2JiYWYyNTc1MjQiLCJ1c2VySWQiOiIxMzIzMjcwNzU1MSIsInRpbWVzdGFtcCI6MTU2MDk0NTkzNzIyNX0
+ *  .yL0H395k6bNnG7pJ6RNjwVxF4omM-ceQLwI46Yf2czI
  * </pre>
  *
  * @author JFSL
